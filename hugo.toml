@@ -2,3 +2,29 @@ baseURL = 'https://owittnan.net/'
 languageCode = 'en-us'
 title = 'Oscar Wittams-Nangle'
 theme = 'smol'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+subtitle = "I'm Oscar (they/he), an aspiring theatre technician and hobbyist sysadmin. I'm a programmer and mediocre musican and am interested in politics, history and public transport among other things."
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "/cv/"
+weight = 2
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 3
