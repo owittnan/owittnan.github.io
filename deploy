@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=root
+HOST=192.168.1.125
+DIR=/var/www/owittnan.net   # the directory where your web site files should go
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR} # this will delete everything on the server that's not in the local public folder 
+
+exit 0

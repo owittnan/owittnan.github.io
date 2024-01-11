@@ -1,0 +1,4 @@
+baseURL = 'https://owittnan.net/'
+languageCode = 'en-us'
+title = 'Oscar Wittams-Nangle'
+theme = 'smol'
