@@ -9,9 +9,8 @@ draft = false
 ### Outside of education
 * **Classic Gear Live**, Olympia - *Rigger*  
 <small>September 2023</small>  
-Assisted with the get-out of Classic Gear Live from PLASA 2023. Working with a team of three others to move hardware on show into flight cases and into a lorry. Equipment moved was heavy and priceless as some of it was incredibly rare (like the original Cadac mixer from Little Shop of Horrors) but despite that we had the exhibition packed up in about an hour.
-
-Also assisted White Light with taking down the trussing for the Le Mark and Dirty Rigger stalls.
+Assisted with the get-out of Classic Gear Live from PLASA 2023. Working with a team of three others to move hardware on show into flight cases and into a lorry. Equipment moved was heavy and priceless as some of it was incredibly rare (like the original Cadac mixer from Little Shop of Horrors) but despite that we had the exhibition packed up in about an hour.  
+<br>Also assisted White Light with taking down the trussing for the Le Mark and Dirty Rigger stalls.
 
 * **Harris Invictus Academy Croydon** - *Volunteer Sound Engineer*  
 <small>April 2021-May 2023</small>  
