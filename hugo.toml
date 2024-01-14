@@ -31,3 +31,14 @@ name = "Posts"
 url = "/posts/"
 weight = 3
 
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 4
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 4
