@@ -12,6 +12,6 @@ I'm a hobbyist sysadmin -- in fact, this website is running on a Proxmox contain
 I'm politically active, but not a member of any political party as they're all too right-wing (socially and economically). I'm very interested in history and public infrastructure (especially transport infrastructure).
 I'm also queer and neurodivergent, which most likely informed my politics. 
 
-I'll post here from time to time about things that interest me. Should be good fun, at least.
+I'll post here from time to time about things that interest me.
 
 You can reach me by email at <a href="mailto:owittnan@gmail.com">owittnan@gmail.com</a>.
