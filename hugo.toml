@@ -42,3 +42,11 @@ identifier = "tags"
 name = "Tags"
 url = "/tags/"
 weight = 4
+
+[[menu.footer]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://tech.lgbt/@owittnan"
+weight = 4
+[menu.footer.params]
+rel = "me"
