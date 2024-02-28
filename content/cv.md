@@ -1,6 +1,5 @@
 +++
 title = 'CV'
-date = 2024-01-11T22:19:35Z
 draft = false 
 +++
 
