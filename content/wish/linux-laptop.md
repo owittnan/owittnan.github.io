@@ -1,5 +1,6 @@
 +++
 title = "Linux laptop"
+draft = false
 +++
 
 My current workstation is an Asus Zenbook Duo, which I love, but it has one major flaw... it runs Windows. Unfortunately lighting design is not incredibly friendly to Linux as an industry.

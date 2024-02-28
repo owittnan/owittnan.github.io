@@ -1,6 +1,6 @@
 +++
 title = "/wish"
-draft = true
+draft = false
 +++
 
 I never know what I want. This is a perennial issue when a birthday or Christmas is coming up and I'm asked the inevitable.
