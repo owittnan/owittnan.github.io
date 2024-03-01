@@ -40,6 +40,3 @@ NB: This is half-wishlist, half-shopping list. Some things are completely insane
 * [Power bank](https://www.amazon.co.uk/INIU-20000mAh-Portable-High-speed-Compatible/dp/B07YPS5JC5) (£30)
 * [Anker Soundcore Space A40](https://www.amazon.co.uk/soundcore-Adaptive-Cancelling-Wireless-Comfortable-Black-dp-B0B1LVC5VZ/dp/B0B1LVC5VZ) (£60)
 * [Kindle 2022 (no ads or Kindle Unlimited)](https://www.amazon.co.uk/dp/B09SWS16W6/) (£95)
-
-## Things I'm saving up for
-* [Linux laptop](/wish/linux-laptop)
