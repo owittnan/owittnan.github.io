@@ -7,7 +7,7 @@ I never know what I want. This is a perennial issue when a birthday or Christmas
 
 So when I saw Taylor Troesh's [manifesto for /wish pages](https://taylor.town/wish-manifesto) I thought it was a very good idea. So here's my `/wish`es -- if you want to get me something then this is where you should be. 
 
-NB: This is half-wishlist, half-shopping list. Some things are completely insane as gifts (or in general, for that matter) and others are a bit more realistic.
+NB: This is half-wishlist, half-shopping list. Some things may be completely insane as gifts (or in general, for that matter) and others will be a bit more realistic.
 
 ## Charities
 * [Mermaids](https://mermaidsuk.org.uk/donate/)
