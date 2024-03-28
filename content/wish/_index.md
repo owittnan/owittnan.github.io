@@ -37,6 +37,6 @@ NB: This is half-wishlist, half-shopping list. Some things are completely insane
 * [8pc AAAA batteries](https://www.amazon.co.uk/AmazonBasics-AAAA-Alkaline-Batteries-Pack-White/dp/B00LH3DTYS) (£6)
 * [USB C to C cables](https://www.amazon.co.uk/LISEN-4-Pack-Samsung-MacBook-Charger-black/dp/B0CHYN66FD) (£8)
 * [65W GaN charger](https://www.amazon.co.uk/UGREEN-65W-Ports-Wall-Charger/dp/B088CZ8CYG) (£22)
-* [Power bank](https://www.amazon.co.uk/INIU-20000mAh-Portable-High-speed-Compatible/dp/B07YPS5JC5) (£30)
+* [Power bank](https://www.amazon.co.uk/INIU-20000mAh-Charging-Portable-Charger/dp/B0CB1DF4JQ) (£50)
 * [Anker Soundcore Space A40](https://www.amazon.co.uk/soundcore-Adaptive-Cancelling-Wireless-Comfortable-Black-dp-B0B1LVC5VZ/dp/B0B1LVC5VZ) (£60)
 * [Kindle 2022 (no ads or Kindle Unlimited)](https://www.amazon.co.uk/dp/B09SWS16W6/) (£95)
