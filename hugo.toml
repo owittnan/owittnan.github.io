@@ -1,0 +1,24 @@
+baseURL = 'https://owittnan.net'
+languageCode = 'en-gb'
+title = 'Oscar Wittams-Nangle'
+theme = 'awesome-identity'
+
+[params.style]
+accent-colour = "#454173"
+
+[params.profile]
+portrait = "/assets/logo.png"
+firstname = "Oz"
+lastname = "Wittams-Nangle"
+title = "Lighting programmer and designer"
+bio = """
+I am a BRIT School student specialising in lighting, with three show roles as lighting designer and four as lighting programmer. I am experienced with ETC Eos as well as get-ins and get-outs. I have also worked large-scale exhibitions such as PLASA 2024, where I assisted on the Classic Gear Live stand.
+
+I am also a programmer -- I am currently working on implementing a DSL for lighting control in Python!
+"""
+
+
+[params.contacts]
+email = "oscar@owittnan.net"
+instagram = "own.lx"
+linkedin = "oz-wittams-nangle-3977b6332" 
