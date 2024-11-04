@@ -7,7 +7,7 @@ theme = 'awesome-identity'
 accent-colour = "#454173"
 
 [params.profile]
-portrait = "/assets/logo.png"
+portrait = "/static/logo.png"
 firstname = "Oz"
 lastname = "Wittams-Nangle"
 title = "Lighting programmer and designer"
